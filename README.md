@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 Software Convergence major at Sookmyung Women's University
 - 🌱 Currently learning about BE
-- 📫 How to reach me: ~
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 
