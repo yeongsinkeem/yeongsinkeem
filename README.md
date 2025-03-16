@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 --> 
 
 - 🔭 Software Convergence major at Sookmyung Women's University
-- 🌱 Currently learning about BE
-- 📫 How to reach me:
-- 😄 Pronouns: ...
+- 🌱 Currently learning about BE and Data Science
+- 📫 How to reach me: dudtls0522@gmail.com / dudtls0522@sookmyung.ac.kr
 
